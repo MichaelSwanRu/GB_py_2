@@ -33,3 +33,8 @@ for i in range(len(v)):
 
 37 // 6
 37 % 6
+
+
+import pandas
+
+
